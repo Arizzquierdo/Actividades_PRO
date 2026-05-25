@@ -2,4 +2,4 @@
 
 
 
-#Ejecución de la actividades de programación propuestas para el resultado de aprendizaje 11 (UT.11).
+# Ejecución de la actividades de programación propuestas para el resultado de aprendizaje 11 (UT.11).
